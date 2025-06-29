@@ -2,8 +2,8 @@
 Sudoku game made for the terminal
 
 ## Previews
-![Preview 1](https://github.com/Quan1umMango/sudoku/images/prev1.png)
-![Preview 2](https://github.com/Quan1umMango/sudoku/images/prev2.png)
+![Preview 1](https://github.com/Quan1umMango/sudoku/blob/main/images/prev1.png)
+![Preview 2](https://github.com/Quan1umMango/sudoku/blob/main/images/prev2.png)
 
 ## Controls
 ### Movement
